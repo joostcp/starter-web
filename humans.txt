@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Bas Clown bassie@bena.nl
+Adriaan Acrobaat adriaantje@bena.nl
+    
 
 # THANKS
 
